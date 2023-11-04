@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a fourth year undergraduate student from [School of Computer Science and Technology](http://www.cs.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/).
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am currently a research assistant of Institute of Intelligent Computing(IIC),Shandong University, fortunately to be advised by [Prof. Huanle Zhang](https://www.data-system.tech/) and [Prof. Wen Song]. My research interest includes computer vision, machine learning and .
 
 You can find my CV here: [Yiding Shi's Curriculum Vitae](../assets/CV.pdf).
 
